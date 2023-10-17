@@ -3,18 +3,32 @@
 
 ### About Me:
 
+I'm sure that I'm one of the most uniq and 'modest' person that you can find in the world 🌍
+
+Why am I so uniq:
+I'm Fullstack Developer and Frontend Coach, I'm always open for any opportunity
+
+I get up at 6 am and on feet during 18 hours, I try to do every minute maximum effective
+
+I'm 16 years old
+
+I know 5 languages 🇺🇦🇷🇺🇺🇸🇫🇷🇩🇪
+
+If I said that I would do something, in 99.99% I will do it(for example, if I said that the work would be done at the specific date, I can go without sleeping and eating but the work will be done in time) ✅
+
+
 
 ---
 
 ### Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,less,sass,js,ts,react,vue,gulp,webpack,nodejs,wordpress,python,php,jquery,bootstrap,flutterflow,tilda,bitrix24,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,vite,gulp,webpack,nodejs,wordpress,py,php,jquery,bootstrap,flutter,mysql,firebase,babel,selenium,svg)](https://skillicons.dev)
 
 ---
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,ps,ai,pr,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,ps,ai,pr,ae,docker,git,github,discord)](https://skillicons.dev)
 
 ---
 
