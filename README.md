@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**DEV-Penguin-DEV/DEV-Penguin-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, my name is Konstantin!
 
-Here are some ideas to get you started:
+### About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### Technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,less,sass,js,ts,react,vue,gulp,webpack,nodejs,wordpress,python,php,jquery,bootstrap,flutterflow,tilda,bitrix24,mysql)](https://skillicons.dev)
+
+---
+
+### Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,ps,ai,pr,docker,git,github)](https://skillicons.dev)
+
+---
+
+### Contact Me:
+
+<p align="left">
+<a href="https://t.me/konstantin_lysenko_tg" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Konstantin" />
+<a href="mailto:k.lysenko@atomlc.com.ua" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:k.lysenko@atomlc.com.ua" alt="Lysenko Konstantin"  />
+</p>
