@@ -36,5 +36,5 @@ If I said that I would do something, in 99.99% I will do it(for example, if I sa
 
 <p align="left">
 <a href="https://t.me/konstantin_lysenko_tg" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Konstantin" />
-<a href="mailto:k.lysenko@atomlc.com.ua" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:k.lysenko@atomlc.com.ua" alt="Lysenko Konstantin"  />
+<a href="mailto:personal@konstantin-lysenko.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:personal@konstantin-lysenko.com" alt="Lysenko Konstantin"  />
 </p>
